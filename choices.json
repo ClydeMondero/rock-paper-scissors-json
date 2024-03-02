@@ -1,0 +1,16 @@
+{
+    "choices": [
+        {
+            "name": "Rock",
+            "location": "images/rock.png"
+        },
+        {
+            "name": "Paper",
+            "location": "images/paper.png"
+        },
+        {
+            "name": "Scissors",
+            "location": "images/scissors.png"
+        }
+    ]
+}
